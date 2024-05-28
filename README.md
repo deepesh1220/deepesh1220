@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Deepesh Sahu
-- 👀 I’m interested in Java Full Stack Developer
-- 🌱 I’m currently learning Java, SQL/PLSQL, HTML/CSS/JS
-- 💞️ I’m looking to collaborate on IT Sector
+- 👀 I’m experienced Java Full Stack Developer
+- 🌱 I’m proficient in  Java,Spring, SQL/PLSQL, HTML/CSS/JS
 - 📫 How to reach me Email ID- sahudeepesh46@gmail.com
 
 <!---
